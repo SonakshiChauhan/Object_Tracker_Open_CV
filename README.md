@@ -1,5 +1,5 @@
 # Object_Tracker_Open_CV
-<iframe width="560" height="315" src=https://screenrec.com/share/8W1FCJv9qn frameborder="0" allowfullscreen></iframe>
+https://screenrec.com/share/8W1FCJv9qn
 
 **Overview:**
 ->Step #1: Detect the presence of a colored object using computer vision techniques.
