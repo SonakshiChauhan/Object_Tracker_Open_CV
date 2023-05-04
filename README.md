@@ -1,5 +1,6 @@
 # Object_Tracker_Open_CV
 https://screenrec.com/share/8W1FCJv9qn
+
 **Overview:**
 ->Step #1: Detect the presence of a colored object using computer vision techniques.
 ->Step #2: Track the object as it moves around in the video frames, drawing its previous positions as it moves.
