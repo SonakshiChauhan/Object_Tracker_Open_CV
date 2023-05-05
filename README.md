@@ -1,6 +1,6 @@
 # Object_Tracker_Open_CV
 
-Object_Tracker_Open_CV/ball_Tracker_2.mp4
+https://user-images.githubusercontent.com/91408631/236392335-003e8140-f4b1-407e-a2fe-ded26cad99e5.mp4
 
 **Overview:**
 ->Step #1: Detect the presence of a colored object using computer vision techniques.
