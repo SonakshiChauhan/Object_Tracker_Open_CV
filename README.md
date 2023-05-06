@@ -30,7 +30,7 @@ pip install opencv-python
 ## Notebook Structure
 The structure of this notebook is as follows:
 
- -Imports
+ -Import:
  -Argument Parsing
  -Upper And Lower Boundary defination
  -Frame Deteions, preprocessing 
